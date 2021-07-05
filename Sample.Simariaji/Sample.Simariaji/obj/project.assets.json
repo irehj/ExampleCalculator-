@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/irehj/Projects/Sample.Simariaji/Sample.Simariaji/Sample.Simariaji.csproj",
+      "projectUniqueName": "/Users/irehj/ExampleCalculator-/Sample.Simariaji/Sample.Simariaji/Sample.Simariaji.csproj",
       "projectName": "Sample.Simariaji",
-      "projectPath": "/Users/irehj/Projects/Sample.Simariaji/Sample.Simariaji/Sample.Simariaji.csproj",
+      "projectPath": "/Users/irehj/ExampleCalculator-/Sample.Simariaji/Sample.Simariaji/Sample.Simariaji.csproj",
       "packagesPath": "/Users/irehj/.nuget/packages/",
-      "outputPath": "/Users/irehj/Projects/Sample.Simariaji/Sample.Simariaji/obj/",
+      "outputPath": "/Users/irehj/ExampleCalculator-/Sample.Simariaji/Sample.Simariaji/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/irehj/.config/NuGet/NuGet.Config"
